@@ -30,17 +30,6 @@ Previously at **Markestrat**, I delivered full BI solutions independently, with 
 
 ---
 
-### 🚀 Projects (coming soon)
-
-I'll be publishing here a portfolio of Power BI dashboards. Some of the themes will include:
-- Sales performance & growth tracking
-- Market share and segmentation analysis
-- Commercial KPIs for field force and CRM
-
-📌 Stay tuned!
-
----
-
 ### 🔗 Let's connect
 
 - 📬 Email: rafapaesnarciso@gmail.com
